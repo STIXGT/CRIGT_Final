@@ -1,7 +1,7 @@
 # App Mobile "CRIGT
 
 
-####Una app que lleva el registro de los compradores y que pueda generar un código QR con el correo del usuario.
+#### Una app que lleva el registro de los compradores y que pueda generar un código QR con el correo del usuario.
 
 ##### Para poder descargar la app, puede entrar al apartado de Tag, donde encontrará el Tag 0.1.
 
@@ -35,14 +35,14 @@
 
 
 
-######Primero nos llevará a una pantalla en la cual decidiremos, si Iniciar Sesión si ya contamos con una cuenta registrada en la base de datos, o bien decidir si creamos una nueva cuenta para poder iniciar sesión.
+###### Primero nos llevará a una pantalla en la cual decidiremos, si Iniciar Sesión si ya contamos con una cuenta registrada en la base de datos, o bien decidir si creamos una nueva cuenta para poder iniciar sesión.
 
 
 
 ![image](https://user-images.githubusercontent.com/84167751/215798952-fe77b78b-9b0d-41d3-8b3b-75efe66c2448.png)
 
 
-######Pantalla la cual se nos mostrará si esta realizando un nuevo registro.
+###### Pantalla la cual se nos mostrará si esta realizando un nuevo registro.
 
 
 
@@ -50,7 +50,7 @@
 
 
 
-######Después de iniciar sesión o haber creado una nueva cuenta, Los llevará a una pantalla en la cual se visializará un Código QR donde se encontrará el correo electrónico del usuario que previamente alla iniciado sesión.
+###### Después de iniciar sesión o haber creado una nueva cuenta, Los llevará a una pantalla en la cual se visializará un Código QR donde se encontrará el correo electrónico del usuario que previamente alla iniciado sesión.
 
 
 ![image](https://user-images.githubusercontent.com/84167751/215799086-9e403bd2-05c3-41a1-94c3-a04550188958.png)
@@ -61,6 +61,6 @@
 
 
 
-####Ahora si, solo tendras que esperar a las próximas actualizaciones para poder empezar a recibir los beneficios previamente menciondos.
+#### Ahora si, solo tendras que esperar a las próximas actualizaciones para poder empezar a recibir los beneficios previamente menciondos.
 
-####Gracias por usar "CRITG".
+#### Gracias por usar "CRITG".
