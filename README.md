@@ -3,9 +3,19 @@
 
 #### Una app que lleva el registro de los compradores y que pueda generar un código QR con el correo del usuario.
 
-##### Para poder descargar la app, puede entrar al apartado de Tag, donde encontrará el Tag 0.1.
+##### Para poder descargar la app, puede entrar al apartado de Releases, donde encontrará el Tag 0.1.
 
-##### Donde encontrará el apk de la aplicación para que pueda loggerse en nuestra base de datos y pueda recibir beneficios a largo plazo.
+
+![image](https://user-images.githubusercontent.com/84167751/215800535-733334ee-5860-4aa7-a8a5-0245850b0ddc.png)
+
+
+
+##### En la cuál se visualizará el apk de la aplicación para que pueda loggerse en nuestra base de datos y pueda recibir beneficios a largo plazo.
+
+
+
+![image](https://user-images.githubusercontent.com/84167751/215800671-f9fd0bcf-7646-47b7-8cbb-ed19964b0e24.png)
+
 
 
 
