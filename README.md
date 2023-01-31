@@ -1,4 +1,4 @@
-# App Mobile "CRIGT#
+# App Mobile "CRIGT
 
 
 ####Una app que lleva el registro de los compradores y que pueda generar un código QR con el correo del usuario.
