@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "51396965107",
+    "project_id": "crigt2",
+    "storage_bucket": "crigt2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51396965107:android:e8819a1769aadec764fd86",
+        "android_client_info": {
+          "package_name": "com.example.crigt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51396965107-vivct4deho69hgohfn9aoo05vpoepuvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4L47uYxEyoy1shbwoMHL2EqmSAyleqCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51396965107-vivct4deho69hgohfn9aoo05vpoepuvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
