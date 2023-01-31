@@ -61,6 +61,6 @@
 
 
 
-#### Ahora si, solo tendras que esperar a las próximas actualizaciones para poder empezar a recibir los beneficios previamente menciondos.
+#### Ahora si, solo tendras que esperar a las próximas actualizaciones para poder empezar a recibir los beneficios previamente mencionados.
 
 #### Gracias por usar "CRITG".
